@@ -1,0 +1,14 @@
+{
+    "type": "module",
+    "name": "your-package-name",
+    "version": "1.0.0",
+    "main": "form.js",
+    "scripts": {
+        "start": "node form.js"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "fetch-cookie": "^3.0.1",
+        "node-fetch-cookies": "^2.1.1"
+    }
+}
