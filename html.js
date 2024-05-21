@@ -11,7 +11,7 @@ const endDate = new Date('2024-05-10');
 async function fetchHTMLPage(url, filePath) {
     const response = await fetch(url, {
         method: 'GET',
-        headers:{
+        headers: {
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'Accept-Encoding': 'gzip, deflate, br, zstd',
             'Accept-Language': 'en-US,en;q=0.9',
@@ -53,18 +53,17 @@ function extractLinks(html, baseURL) {
     return links;
 }
 
-async function pagination(baseUrl, payload, pageNumber) {
+async function pagination(baseUrl, pageNumber, filePath) {
     const url = new URL(baseUrl);
     url.searchParams.append('page', pageNumber);
 
     const response = await fetchCookie(url.href, {
-        method: 'POST',
-        headers:{
+        method: 'GET',
+        headers: {
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'accept-encoding': 'gzip, deflate, br, zstd',
             'accept-language': 'en-US,en;q=0.9',
             'cache-control': 'no-cache',
-            'cookie': '_ga=GA1.1.35997564.1715405383; AF_SID=3f2e9e08049afb3ab8d99c27e3d9cf19; _ga_Q08M9WSQTT=GS1.1.1716035183.31.1.1716035853.0.0.0',
             'pragma': 'no-cache',
             'priority': 'u=0, i',
             'referer': 'https://www.tribunalconstitucional.pt/tc/acordaos/',
@@ -77,13 +76,14 @@ async function pagination(baseUrl, payload, pageNumber) {
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
-        },
-        
-          
-        body: new URLSearchParams(payload).toString(),
+        }
     });
 
     const html = await response.text();
+    const pageFilePath = `${filePath}/page_${pageNumber}.html`;
+    fs.writeFileSync(pageFilePath, html);
+    console.log(`HTML saved to ${pageFilePath}`);
+
     const $ = cheerio.load(html);
     const results = [];
 
@@ -113,7 +113,7 @@ async function pagination(baseUrl, payload, pageNumber) {
                 URL: "http://vlex.com/tc/2000/especie/recurso"
             };
         }
-        relator = relator.replace('Cons. ', ''); 
+        relator = relator.replace('Cons. ', '');
         relator = {
             name: relator,
             URL: `http://vlex.com/tc/2000/relatores/${encodeURIComponent(relator.toLowerCase().replace(/ /g, '-'))}`
@@ -123,7 +123,7 @@ async function pagination(baseUrl, payload, pageNumber) {
     return results;
 }
 
-async function searchAcordaos(startDate, endDate) {
+async function searchAcordaos(startDate, endDate, pageFilePath) {
     const url = "https://www.tribunalconstitucional.pt/tc/acordaos/";
     const payload = {
         pesquisatipo: "pesquisa",
@@ -146,25 +146,24 @@ async function searchAcordaos(startDate, endDate) {
         submit: "Pesquisar"
     };
 
-    // Fetch data from page 0 to page 5
-    const totalPages = 6; // 0 to 5
+    const totalPages = 6; // Fetch data from page 0 to page 5
     const allResults = [];
     for (let i = 0; i < totalPages; i++) {
-        const currentPageResults = await pagination(url, payload, i);
+        const currentPageResults = await pagination(url, i, pageFilePath);
         allResults.push(...currentPageResults);
     }
 
     return allResults;
 }
 
-const htmlFilePath = './acordaos.html'; 
+const htmlFilePath = './acordaos.html';
 const linksFilePath = './links.txt';
+const pageFilePath = './pages';
 
 fetchHTMLPage(baseUrl, htmlFilePath)
     .then(links => {
         console.log('HTML saved successfully');
-        //console.log('Extracted links:', links);
-        return searchAcordaos(startDate, endDate);
+        return searchAcordaos(startDate, endDate, pageFilePath);
     })
     .then(results => {
         const json = JSON.stringify(results, null, 2);

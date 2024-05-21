@@ -1,38 +1,18 @@
 [
   {
-    "acordao": "376/24",
-    "processo": "1221/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "08.05.2024",
+    "acordao": "377/24",
+    "processo": "435/24",
+    "formacao": "3ª Secção",
+    "especie": "Eleitoral",
+    "data": "13.05.2024",
     "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+      "name": "Presidente",
+      "URL": "http://vlex.com/tc/2000/relatores/presidente"
     }
   },
   {
-    "acordao": "374/24",
-    "processo": "925-A/22",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "08.05.2024",
-    "relator": {
-      "name": "Mariana Canotilho",
-      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
-    }
-  },
-  {
-    "acordao": "371/24",
-    "processo": "231/24",
+    "acordao": "375/24",
+    "processo": "1052/22",
     "formacao": {
       "name": "Conferência",
       "URL": "http://vlex.com/tc/2000/formacao/conferencia"
@@ -48,9 +28,12 @@
     }
   },
   {
-    "acordao": "369/24",
-    "processo": "750/23",
-    "formacao": "2ª Secção",
+    "acordao": "373/24",
+    "processo": "364/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
@@ -62,9 +45,12 @@
     }
   },
   {
-    "acordao": "367/24",
-    "processo": "1100/22",
-    "formacao": "2ª Secção",
+    "acordao": "370/24",
+    "processo": "37/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
@@ -76,8 +62,8 @@
     }
   },
   {
-    "acordao": "364/24",
-    "processo": "770/22",
+    "acordao": "368/24",
+    "processo": "394/23",
     "formacao": "2ª Secção",
     "especie": {
       "name": "Recurso",
@@ -90,8 +76,22 @@
     }
   },
   {
-    "acordao": "362/24",
-    "processo": "206/24",
+    "acordao": "365/24",
+    "processo": "960/22",
+    "formacao": "2ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "08.05.2024",
+    "relator": {
+      "name": "Mariana Canotilho",
+      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
+    }
+  },
+  {
+    "acordao": "363/24",
+    "processo": "399/24",
     "formacao": {
       "name": "Conferência",
       "URL": "http://vlex.com/tc/2000/formacao/conferencia"
@@ -104,83 +104,60 @@
     }
   },
   {
-    "acordao": "360/24",
-    "processo": "174/24",
+    "acordao": "361/24",
+    "processo": "164/24",
     "formacao": {
       "name": "Conferência",
       "URL": "http://vlex.com/tc/2000/formacao/conferencia"
     },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
+    "especie": "Reclamação",
     "data": "08.05.2024",
     "relator": {
-      "name": "Mariana Canotilho",
-      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
+      "name": "José Eduardo Figueiredo Dias",
+      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
     }
   },
   {
-    "acordao": "358/24",
-    "processo": "472/24",
-    "formacao": {
-      "name": "Plenário",
-      "URL": ""
-    },
+    "acordao": "359/24",
+    "processo": "435/24",
+    "formacao": "3ª Secção",
     "especie": "Eleitoral",
-    "data": "06.05.2024",
+    "data": "08.05.2024",
     "relator": {
-      "name": "Mariana Canotilho",
-      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
+      "name": "Presidente",
+      "URL": "http://vlex.com/tc/2000/relatores/presidente"
     }
   },
   {
-    "acordao": "356/24",
-    "processo": "1273/23",
+    "acordao": "357/24",
+    "processo": "435/24",
+    "formacao": "3ª Secção",
+    "especie": "Eleitoral",
+    "data": "02.05.2024",
+    "relator": {
+      "name": "Vice-Presidente",
+      "URL": "http://vlex.com/tc/2000/relatores/vice-presidente"
+    }
+  },
+  {
+    "acordao": "355/24",
+    "processo": "435/24",
+    "formacao": "3ª Secção",
+    "especie": "Eleitoral",
+    "data": "29.04.2024",
+    "relator": {
+      "name": "Presidente",
+      "URL": "http://vlex.com/tc/2000/relatores/presidente"
+    }
+  },
+  {
+    "acordao": "353/24",
+    "processo": "236/23",
     "formacao": "3ª Secção",
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "02.05.2024",
-    "relator": {
-      "name": "Afonso Patrão",
-      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
-    }
-  },
-  {
-    "acordao": "354/24",
-    "processo": "443/24",
-    "formacao": "1ª Secção",
-    "especie": "Eleitoral",
-    "data": "26.04.2024",
-    "relator": {
-      "name": "Teles Pereira",
-      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
-    }
-  },
-  {
-    "acordao": "352/24",
-    "processo": "402/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "24.04.2024",
-    "relator": {
-      "name": "Afonso Patrão",
-      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
-    }
-  },
-  {
-    "acordao": "350/24",
-    "processo": "2121/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
     "data": "24.04.2024",
     "relator": {
       "name": "Carlos Carvalho",
@@ -188,8 +165,22 @@
     }
   },
   {
-    "acordao": "348/24",
-    "processo": "280/24",
+    "acordao": "351/24",
+    "processo": "356/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "24.04.2024",
+    "relator": {
+      "name": "Afonso Patrão",
+      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
+    }
+  },
+  {
+    "acordao": "349/24",
+    "processo": "352/24",
     "formacao": {
       "name": "Conferência",
       "URL": "http://vlex.com/tc/2000/formacao/conferencia"
@@ -200,13 +191,219 @@
     },
     "data": "24.04.2024",
     "relator": {
-      "name": "Afonso Patrão",
-      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
+      "name": "Carlos Carvalho",
+      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
     }
   },
   {
-    "acordao": "346/24",
-    "processo": "1047/23",
+    "acordao": "347/24",
+    "processo": "1178/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "24.04.2024",
+    "relator": {
+      "name": "Carlos Carvalho",
+      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
+    }
+  },
+  {
+    "acordao": "377/24",
+    "processo": "435/24",
+    "formacao": "",
+    "especie": "Eleitoral",
+    "data": "13.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "375/24",
+    "processo": "1052/22",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "08.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "373/24",
+    "processo": "364/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "08.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "370/24",
+    "processo": "37/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "08.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "368/24",
+    "processo": "394/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "08.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "365/24",
+    "processo": "960/22",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "08.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "363/24",
+    "processo": "399/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "08.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "361/24",
+    "processo": "164/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "08.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "359/24",
+    "processo": "435/24",
+    "formacao": "",
+    "especie": "Eleitoral",
+    "data": "08.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "357/24",
+    "processo": "435/24",
+    "formacao": "",
+    "especie": "Eleitoral",
+    "data": "02.05.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "355/24",
+    "processo": "435/24",
+    "formacao": "",
+    "especie": "Eleitoral",
+    "data": "29.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "353/24",
+    "processo": "236/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "24.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "351/24",
+    "processo": "356/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "24.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "349/24",
+    "processo": "352/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "24.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "347/24",
+    "processo": "1178/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "24.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "345/24",
+    "processo": "81/23",
     "formacao": "3ª Secção",
     "especie": {
       "name": "Recurso",
@@ -219,199 +416,1884 @@
     }
   },
   {
-    "acordao": "376/24",
-    "processo": "1221/23",
+    "acordao": "343/24",
+    "processo": "400/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "24.04.2024",
+    "relator": {
+      "name": "Joana Fernandes Costa",
+      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
+    }
+  },
+  {
+    "acordao": "341/24",
+    "processo": "361/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "24.04.2024",
+    "relator": {
+      "name": "João Carlos Loureiro",
+      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
+    }
+  },
+  {
+    "acordao": "339/24",
+    "processo": "177/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "24.04.2024",
+    "relator": {
+      "name": "Joana Fernandes Costa",
+      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
+    }
+  },
+  {
+    "acordao": "337/24",
+    "processo": "32/23",
+    "formacao": "1ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "23.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "335/24",
+    "processo": "1160/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "23.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "333/24",
+    "processo": "724/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "23.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "331/24",
+    "processo": "527/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "23.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "329/24",
+    "processo": "292/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "23.04.2024",
+    "relator": {
+      "name": "Teles Pereira",
+      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
+    }
+  },
+  {
+    "acordao": "327/24",
+    "processo": "96/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "23.04.2024",
+    "relator": {
+      "name": "Teles Pereira",
+      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
+    }
+  },
+  {
+    "acordao": "325/24",
+    "processo": "623/22",
+    "formacao": {
+      "name": "Plenário",
+      "URL": ""
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "18.04.2024",
+    "relator": {
+      "name": "António José da Ascensão Ramos",
+      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+    }
+  },
+  {
+    "acordao": "323/24",
+    "processo": "1311/23",
+    "formacao": {
+      "name": "Plenário",
+      "URL": ""
+    },
+    "especie": "Partido Político",
+    "data": "17.04.2024",
+    "relator": {
+      "name": "Afonso Patrão",
+      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
+    }
+  },
+  {
+    "acordao": "321/24",
+    "processo": "51/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "Afonso Patrão",
+      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
+    }
+  },
+  {
+    "acordao": "319/24",
+    "processo": "155/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "Afonso Patrão",
+      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
+    }
+  },
+  {
+    "acordao": "317/24",
+    "processo": "158/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "11.04.2024",
+    "relator": {
+      "name": "João Carlos Loureiro",
+      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
+    }
+  },
+  {
+    "acordao": "345/24",
+    "processo": "81/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "24.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "343/24",
+    "processo": "400/24",
     "formacao": "",
     "especie": "Reclamação",
-    "data": "08.05.2024",
+    "data": "24.04.2024",
     "relator": {
       "name": "",
       "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "374/24",
-    "processo": "925-A/22",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "08.05.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "371/24",
-    "processo": "231/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "08.05.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "369/24",
-    "processo": "750/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "08.05.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "367/24",
-    "processo": "1100/22",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "08.05.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "364/24",
-    "processo": "770/22",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "08.05.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "362/24",
-    "processo": "206/24",
+    "acordao": "341/24",
+    "processo": "361/24",
     "formacao": "",
     "especie": "Reclamação",
-    "data": "08.05.2024",
+    "data": "24.04.2024",
     "relator": {
       "name": "",
       "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "360/24",
-    "processo": "174/24",
+    "acordao": "339/24",
+    "processo": "177/24",
     "formacao": "",
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "08.05.2024",
+    "data": "24.04.2024",
     "relator": {
       "name": "",
       "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "358/24",
-    "processo": "472/24",
+    "acordao": "337/24",
+    "processo": "32/23",
     "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "23.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "335/24",
+    "processo": "1160/23",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "23.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "333/24",
+    "processo": "724/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "23.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "331/24",
+    "processo": "527/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "23.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "329/24",
+    "processo": "292/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "23.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "327/24",
+    "processo": "96/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "23.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "325/24",
+    "processo": "623/22",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "18.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "323/24",
+    "processo": "1311/23",
+    "formacao": "",
+    "especie": "Partido Político",
+    "data": "17.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "321/24",
+    "processo": "51/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "319/24",
+    "processo": "155/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "317/24",
+    "processo": "158/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "315/24",
+    "processo": "321/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "João Carlos Loureiro",
+      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
+    }
+  },
+  {
+    "acordao": "313/24",
+    "processo": "141/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "João Carlos Loureiro",
+      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
+    }
+  },
+  {
+    "acordao": "311/24",
+    "processo": "1177-A/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "Mariana Canotilho",
+      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
+    }
+  },
+  {
+    "acordao": "309/24",
+    "processo": "1052/22",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "Mariana Canotilho",
+      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
+    }
+  },
+  {
+    "acordao": "307/24",
+    "processo": "313/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "11.04.2024",
+    "relator": {
+      "name": "Mariana Canotilho",
+      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
+    }
+  },
+  {
+    "acordao": "305/24",
+    "processo": "163/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "Mariana Canotilho",
+      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
+    }
+  },
+  {
+    "acordao": "303/24",
+    "processo": "116/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "António José da Ascensão Ramos",
+      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+    }
+  },
+  {
+    "acordao": "301/24",
+    "processo": "70/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "António José da Ascensão Ramos",
+      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+    }
+  },
+  {
+    "acordao": "299/24",
+    "processo": "1255/21",
+    "formacao": "2ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "José Eduardo Figueiredo Dias",
+      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
+    }
+  },
+  {
+    "acordao": "297/24",
+    "processo": "941/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "11.04.2024",
+    "relator": {
+      "name": "José Eduardo Figueiredo Dias",
+      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
+    }
+  },
+  {
+    "acordao": "295/24",
+    "processo": "73/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "Dora Lucas Neto",
+      "URL": "http://vlex.com/tc/2000/relatores/dora-lucas-neto"
+    }
+  },
+  {
+    "acordao": "293/24",
+    "processo": "279/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "José Eduardo Figueiredo Dias",
+      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
+    }
+  },
+  {
+    "acordao": "291/24",
+    "processo": "787/22",
+    "formacao": "1ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Teles Pereira",
+      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
+    }
+  },
+  {
+    "acordao": "289/24",
+    "processo": "192/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "287/24",
+    "processo": "1240/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "315/24",
+    "processo": "321/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "313/24",
+    "processo": "141/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "311/24",
+    "processo": "1177-A/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "309/24",
+    "processo": "1052/22",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "307/24",
+    "processo": "313/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "305/24",
+    "processo": "163/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "303/24",
+    "processo": "116/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "301/24",
+    "processo": "70/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "299/24",
+    "processo": "1255/21",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "297/24",
+    "processo": "941/23",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "295/24",
+    "processo": "73/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "293/24",
+    "processo": "279/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "11.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "291/24",
+    "processo": "787/22",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "289/24",
+    "processo": "192/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "287/24",
+    "processo": "1240/23",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "285/24",
+    "processo": "1023/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "283/24",
+    "processo": "907/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "281/24",
+    "processo": "822/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "279/24",
+    "processo": "519/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "277/24",
+    "processo": "350/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "275/24",
+    "processo": "126/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Teles Pereira",
+      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
+    }
+  },
+  {
+    "acordao": "273/24",
+    "processo": "1/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Rui Guerra da Fonseca",
+      "URL": "http://vlex.com/tc/2000/relatores/rui-guerra-da-fonseca"
+    }
+  },
+  {
+    "acordao": "271/24",
+    "processo": "44/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "Teles Pereira",
+      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
+    }
+  },
+  {
+    "acordao": "269/24",
+    "processo": "289/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "03.04.2024",
+    "relator": {
+      "name": "Dora Lucas Neto",
+      "URL": "http://vlex.com/tc/2000/relatores/dora-lucas-neto"
+    }
+  },
+  {
+    "acordao": "267/24",
+    "processo": "209/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "03.04.2024",
+    "relator": {
+      "name": "José Eduardo Figueiredo Dias",
+      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
+    }
+  },
+  {
+    "acordao": "265/24",
+    "processo": "307/24",
+    "formacao": {
+      "name": "Plenário",
+      "URL": ""
+    },
+    "especie": "Partido Político",
+    "data": "03.04.2024",
+    "relator": {
+      "name": "Joana Fernandes Costa",
+      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
+    }
+  },
+  {
+    "acordao": "263/24",
+    "processo": "412/23",
+    "formacao": {
+      "name": "Plenário",
+      "URL": ""
+    },
+    "especie": "Partido Político",
+    "data": "02.04.2024",
+    "relator": {
+      "name": "Teles Pereira",
+      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
+    }
+  },
+  {
+    "acordao": "261/24",
+    "processo": "769/23",
+    "formacao": {
+      "name": "Plenário",
+      "URL": ""
+    },
+    "especie": "Sucessivo",
+    "data": "02.04.2024",
+    "relator": {
+      "name": "António José da Ascensão Ramos",
+      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+    }
+  },
+  {
+    "acordao": "259/24",
+    "processo": "598/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "22.03.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "257/24",
+    "processo": "465/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "22.03.2024",
+    "relator": {
+      "name": "Maria Benedita Urbano",
+      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+    }
+  },
+  {
+    "acordao": "285/24",
+    "processo": "1023/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "283/24",
+    "processo": "907/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "281/24",
+    "processo": "822/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "279/24",
+    "processo": "519/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "277/24",
+    "processo": "350/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "275/24",
+    "processo": "126/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "273/24",
+    "processo": "1/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "271/24",
+    "processo": "44/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "10.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "269/24",
+    "processo": "289/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "03.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "267/24",
+    "processo": "209/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "03.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "265/24",
+    "processo": "307/24",
+    "formacao": "",
+    "especie": "Partido Político",
+    "data": "03.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "263/24",
+    "processo": "412/23",
+    "formacao": "",
+    "especie": "Partido Político",
+    "data": "02.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "261/24",
+    "processo": "769/23",
+    "formacao": "",
+    "especie": "Sucessivo",
+    "data": "02.04.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "259/24",
+    "processo": "598/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "22.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "257/24",
+    "processo": "465/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "22.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "255/24",
+    "processo": "1227/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "Carlos Carvalho",
+      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
+    }
+  },
+  {
+    "acordao": "253/24",
+    "processo": "72/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Referendo",
+    "data": "20.03.2024",
+    "relator": {
+      "name": "Carlos Carvalho",
+      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
+    }
+  },
+  {
+    "acordao": "251/24",
+    "processo": "77/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "Afonso Patrão",
+      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
+    }
+  },
+  {
+    "acordao": "249/24",
+    "processo": "1143/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "Carlos Carvalho",
+      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
+    }
+  },
+  {
+    "acordao": "247/24",
+    "processo": "825/23",
+    "formacao": "3ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "Carlos Carvalho",
+      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
+    }
+  },
+  {
+    "acordao": "245/24",
+    "processo": "343/22",
+    "formacao": "3ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "Joana Fernandes Costa",
+      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
+    }
+  },
+  {
+    "acordao": "243/24",
+    "processo": "918/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "Joana Fernandes Costa",
+      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
+    }
+  },
+  {
+    "acordao": "241/24",
+    "processo": "99/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "20.03.2024",
+    "relator": {
+      "name": "João Carlos Loureiro",
+      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
+    }
+  },
+  {
+    "acordao": "239/24",
+    "processo": "1352/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.02.2024",
+    "relator": {
+      "name": "Joana Fernandes Costa",
+      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
+    }
+  },
+  {
+    "acordao": "237/24",
+    "processo": "1177/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "Mariana Canotilho",
+      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
+    }
+  },
+  {
+    "acordao": "235/24",
+    "processo": "211/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "14.03.2024",
+    "relator": {
+      "name": "Mariana Canotilho",
+      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
+    }
+  },
+  {
+    "acordao": "233/24",
+    "processo": "180/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "António José da Ascensão Ramos",
+      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+    }
+  },
+  {
+    "acordao": "231/24",
+    "processo": "976/22",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "António José da Ascensão Ramos",
+      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+    }
+  },
+  {
+    "acordao": "229/24",
+    "processo": "271/23",
+    "formacao": "2ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "António José da Ascensão Ramos",
+      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+    }
+  },
+  {
+    "acordao": "227/24",
+    "processo": "973/22",
+    "formacao": "2ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "António José da Ascensão Ramos",
+      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+    }
+  },
+  {
+    "acordao": "255/24",
+    "processo": "1227/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "253/24",
+    "processo": "72/24",
+    "formacao": "",
+    "especie": "Referendo",
+    "data": "20.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "251/24",
+    "processo": "77/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "249/24",
+    "processo": "1143/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "247/24",
+    "processo": "825/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "245/24",
+    "processo": "343/22",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "243/24",
+    "processo": "918/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "241/24",
+    "processo": "99/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "20.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "239/24",
+    "processo": "1352/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "20.02.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "237/24",
+    "processo": "1177/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "235/24",
+    "processo": "211/24",
+    "formacao": "",
+    "especie": "Reclamação",
+    "data": "14.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "233/24",
+    "processo": "180/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "231/24",
+    "processo": "976/22",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "229/24",
+    "processo": "271/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "227/24",
+    "processo": "973/22",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "225/24",
+    "processo": "807/22",
+    "formacao": "2ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "António José da Ascensão Ramos",
+      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+    }
+  },
+  {
+    "acordao": "223/24",
+    "processo": "1343/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "14.03.2024",
+    "relator": {
+      "name": "José Eduardo Figueiredo Dias",
+      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
+    }
+  },
+  {
+    "acordao": "221/24",
+    "processo": "148/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": "Reclamação",
+    "data": "14.03.2024",
+    "relator": {
+      "name": "Dora Lucas Neto",
+      "URL": "http://vlex.com/tc/2000/relatores/dora-lucas-neto"
+    }
+  },
+  {
+    "acordao": "219/24",
+    "processo": "301/24",
+    "formacao": {
+      "name": "Plenário",
+      "URL": ""
+    },
     "especie": "Eleitoral",
-    "data": "06.05.2024",
+    "data": "14.03.2024",
     "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
+      "name": "Rui Guerra da Fonseca",
+      "URL": "http://vlex.com/tc/2000/relatores/rui-guerra-da-fonseca"
     }
   },
   {
-    "acordao": "356/24",
-    "processo": "1273/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    "acordao": "217/24",
+    "processo": "1342/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
     },
-    "data": "02.05.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "354/24",
-    "processo": "443/24",
-    "formacao": "",
-    "especie": "Eleitoral",
-    "data": "26.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "352/24",
-    "processo": "402/24",
-    "formacao": "",
     "especie": "Reclamação",
-    "data": "24.04.2024",
+    "data": "13.03.2024",
     "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
+      "name": "Afonso Patrão",
+      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
     }
   },
   {
-    "acordao": "350/24",
-    "processo": "2121/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "24.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "348/24",
-    "processo": "280/24",
-    "formacao": "",
+    "acordao": "215/24",
+    "processo": "122/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "24.04.2024",
+    "data": "13.03.2024",
     "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
+      "name": "Afonso Patrão",
+      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
     }
   },
   {
-    "acordao": "346/24",
-    "processo": "1047/23",
-    "formacao": "",
+    "acordao": "213/24",
+    "processo": "30/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "24.04.2024",
+    "data": "13.03.2024",
     "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
+      "name": "Afonso Patrão",
+      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
     }
   },
   {
-    "acordao": "344/24",
+    "acordao": "211/24",
+    "processo": "1053/23",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "13.03.2024",
+    "relator": {
+      "name": "Carlos Carvalho",
+      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
+    }
+  },
+  {
+    "acordao": "209/24",
+    "processo": "868/23",
+    "formacao": "3ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "13.03.2024",
+    "relator": {
+      "name": "Joana Fernandes Costa",
+      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
+    }
+  },
+  {
+    "acordao": "207/24",
+    "processo": "261/23",
+    "formacao": "3ª Secção",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "13.03.2024",
+    "relator": {
+      "name": "Joana Fernandes Costa",
+      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
+    }
+  },
+  {
+    "acordao": "205/24",
+    "processo": "92/24",
+    "formacao": {
+      "name": "Conferência",
+      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    },
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "13.03.2024",
+    "relator": {
+      "name": "Joana Fernandes Costa",
+      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
+    }
+  },
+  {
+    "acordao": "203/24",
     "processo": "1271/23",
     "formacao": {
       "name": "Conferência",
@@ -421,2104 +2303,227 @@
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "24.04.2024",
+    "data": "13.03.2024",
     "relator": {
       "name": "Joana Fernandes Costa",
       "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
     }
   },
   {
-    "acordao": "342/24",
-    "processo": "366/24",
+    "acordao": "201/24",
+    "processo": "205/24",
     "formacao": {
       "name": "Conferência",
       "URL": "http://vlex.com/tc/2000/formacao/conferencia"
     },
     "especie": "Reclamação",
-    "data": "24.04.2024",
-    "relator": {
-      "name": "Joana Fernandes Costa",
-      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
-    }
-  },
-  {
-    "acordao": "340/24",
-    "processo": "228/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "24.04.2024",
-    "relator": {
-      "name": "João Carlos Loureiro",
-      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
-    }
-  },
-  {
-    "acordao": "338/24",
-    "processo": "987/23",
-    "formacao": "1ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "23.04.2024",
+    "data": "12.03.2024",
     "relator": {
       "name": "Teles Pereira",
       "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
     }
   },
   {
-    "acordao": "336/24",
-    "processo": "777/22",
+    "acordao": "199/24",
+    "processo": "1045/23",
     "formacao": "1ª Secção",
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "23.04.2024",
+    "data": "12.03.2024",
     "relator": {
       "name": "Maria Benedita Urbano",
       "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
     }
   },
   {
-    "acordao": "334/24",
-    "processo": "985/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
+    "acordao": "197/24",
+    "processo": "303/23",
+    "formacao": "1ª Secção",
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "23.04.2024",
+    "data": "12.03.2024",
     "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+      "name": "Teles Pereira",
+      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
     }
   },
   {
-    "acordao": "332/24",
-    "processo": "544/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
+    "acordao": "225/24",
+    "processo": "807/22",
+    "formacao": "",
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "23.04.2024",
+    "data": "14.03.2024",
     "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "330/24",
-    "processo": "517/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
+    "acordao": "223/24",
+    "processo": "1343/23",
+    "formacao": "",
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "23.04.2024",
+    "data": "14.03.2024",
     "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "328/24",
-    "processo": "1272/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
+    "acordao": "221/24",
+    "processo": "148/24",
+    "formacao": "",
     "especie": "Reclamação",
-    "data": "23.04.2024",
+    "data": "14.03.2024",
     "relator": {
-      "name": "Rui Guerra da Fonseca",
-      "URL": "http://vlex.com/tc/2000/relatores/rui-guerra-da-fonseca"
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "326/24",
-    "processo": "769/23",
-    "formacao": {
-      "name": "Plenário",
-      "URL": ""
-    },
-    "especie": "Sucessivo",
-    "data": "18.04.2024",
+    "acordao": "219/24",
+    "processo": "301/24",
+    "formacao": "",
+    "especie": "Eleitoral",
+    "data": "14.03.2024",
     "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "324/24",
-    "processo": "1288/21",
-    "formacao": {
-      "name": "Plenário",
-      "URL": ""
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "18.04.2024",
-    "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
-    }
-  },
-  {
-    "acordao": "322/24",
-    "processo": "1036-A/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "17.04.2024",
-    "relator": {
-      "name": "Carlos Carvalho",
-      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
-    }
-  },
-  {
-    "acordao": "320/24",
-    "processo": "291/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
+    "acordao": "217/24",
+    "processo": "1342/23",
+    "formacao": "",
     "especie": "Reclamação",
-    "data": "11.04.2024",
+    "data": "13.03.2024",
     "relator": {
-      "name": "Carlos Carvalho",
-      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "318/24",
-    "processo": "1199/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
+    "acordao": "215/24",
+    "processo": "122/24",
+    "formacao": "",
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "11.04.2024",
+    "data": "13.03.2024",
     "relator": {
-      "name": "Carlos Carvalho",
-      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "316/24",
-    "processo": "263/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
+    "acordao": "213/24",
+    "processo": "30/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "especie": "Reclamação",
-    "data": "11.04.2024",
+    "data": "13.03.2024",
     "relator": {
-      "name": "João Carlos Loureiro",
-      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "344/24",
+    "acordao": "211/24",
+    "processo": "1053/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "13.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "209/24",
+    "processo": "868/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "13.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "207/24",
+    "processo": "261/23",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "13.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "205/24",
+    "processo": "92/24",
+    "formacao": "",
+    "especie": {
+      "name": "Recurso",
+      "URL": "http://vlex.com/tc/2000/especie/recurso"
+    },
+    "data": "13.03.2024",
+    "relator": {
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
+    }
+  },
+  {
+    "acordao": "203/24",
     "processo": "1271/23",
     "formacao": "",
     "especie": {
       "name": "Recurso",
       "URL": "http://vlex.com/tc/2000/especie/recurso"
     },
-    "data": "24.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "342/24",
-    "processo": "366/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "24.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "340/24",
-    "processo": "228/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "24.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "338/24",
-    "processo": "987/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "23.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "336/24",
-    "processo": "777/22",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "23.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "334/24",
-    "processo": "985/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "23.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "332/24",
-    "processo": "544/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "23.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "330/24",
-    "processo": "517/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "23.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "328/24",
-    "processo": "1272/23",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "23.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "326/24",
-    "processo": "769/23",
-    "formacao": "",
-    "especie": "Sucessivo",
-    "data": "18.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "324/24",
-    "processo": "1288/21",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "18.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "322/24",
-    "processo": "1036-A/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "17.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "320/24",
-    "processo": "291/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "318/24",
-    "processo": "1199/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "316/24",
-    "processo": "263/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "314/24",
-    "processo": "265/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "João Carlos Loureiro",
-      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
-    }
-  },
-  {
-    "acordao": "312/24",
-    "processo": "211/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "11.04.2024",
-    "relator": {
-      "name": "Mariana Canotilho",
-      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
-    }
-  },
-  {
-    "acordao": "310/24",
-    "processo": "1080-A/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
-    }
-  },
-  {
-    "acordao": "308/24",
-    "processo": "925/22",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "Mariana Canotilho",
-      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
-    }
-  },
-  {
-    "acordao": "306/24",
-    "processo": "113/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "11.04.2024",
-    "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
-    }
-  },
-  {
-    "acordao": "304/24",
-    "processo": "140/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "Mariana Canotilho",
-      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
-    }
-  },
-  {
-    "acordao": "302/24",
-    "processo": "83/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
-    }
-  },
-  {
-    "acordao": "300/24",
-    "processo": "1100/22",
-    "formacao": "2ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
-    }
-  },
-  {
-    "acordao": "298/24",
-    "processo": "1108/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "11.04.2024",
-    "relator": {
-      "name": "José Eduardo Figueiredo Dias",
-      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
-    }
-  },
-  {
-    "acordao": "296/24",
-    "processo": "233/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "Dora Lucas Neto",
-      "URL": "http://vlex.com/tc/2000/relatores/dora-lucas-neto"
-    }
-  },
-  {
-    "acordao": "294/24",
-    "processo": "1313/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "José Eduardo Figueiredo Dias",
-      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
-    }
-  },
-  {
-    "acordao": "292/24",
-    "processo": "12/24",
-    "formacao": "1ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Teles Pereira",
-      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
-    }
-  },
-  {
-    "acordao": "290/24",
-    "processo": "772/22",
-    "formacao": "1ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Gonçalo de Almeida Ribeiro",
-      "URL": "http://vlex.com/tc/2000/relatores/gon%C3%A7alo-de-almeida-ribeiro"
-    }
-  },
-  {
-    "acordao": "288/24",
-    "processo": "136/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "286/24",
-    "processo": "1073/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "314/24",
-    "processo": "265/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "312/24",
-    "processo": "211/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "310/24",
-    "processo": "1080-A/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "308/24",
-    "processo": "925/22",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "306/24",
-    "processo": "113/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "304/24",
-    "processo": "140/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "302/24",
-    "processo": "83/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "300/24",
-    "processo": "1100/22",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "298/24",
-    "processo": "1108/23",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "296/24",
-    "processo": "233/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "294/24",
-    "processo": "1313/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "11.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "292/24",
-    "processo": "12/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "290/24",
-    "processo": "772/22",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "288/24",
-    "processo": "136/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "286/24",
-    "processo": "1073/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "284/24",
-    "processo": "950/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "282/24",
-    "processo": "875/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "280/24",
-    "processo": "795/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "278/24",
-    "processo": "478/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "276/24",
-    "processo": "193/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Rui Guerra da Fonseca",
-      "URL": "http://vlex.com/tc/2000/relatores/rui-guerra-da-fonseca"
-    }
-  },
-  {
-    "acordao": "274/24",
-    "processo": "63/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Rui Guerra da Fonseca",
-      "URL": "http://vlex.com/tc/2000/relatores/rui-guerra-da-fonseca"
-    }
-  },
-  {
-    "acordao": "272/24",
-    "processo": "145/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "Teles Pereira",
-      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
-    }
-  },
-  {
-    "acordao": "270/24",
-    "processo": "380/24",
-    "formacao": "1ª Secção",
-    "especie": "Eleitoral",
-    "data": "04.04.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "268/24",
-    "processo": "264/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "03.04.2024",
-    "relator": {
-      "name": "Dora Lucas Neto",
-      "URL": "http://vlex.com/tc/2000/relatores/dora-lucas-neto"
-    }
-  },
-  {
-    "acordao": "266/24",
-    "processo": "151/24",
-    "formacao": {
-      "name": "Plenário",
-      "URL": ""
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "03.04.2024",
-    "relator": {
-      "name": "José Eduardo Figueiredo Dias",
-      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
-    }
-  },
-  {
-    "acordao": "264/24",
-    "processo": "935/23",
-    "formacao": {
-      "name": "Plenário",
-      "URL": ""
-    },
-    "especie": "Partido Político",
-    "data": "02.04.2024",
-    "relator": {
-      "name": "João Carlos Loureiro",
-      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
-    }
-  },
-  {
-    "acordao": "262/24",
-    "processo": "1232/23",
-    "formacao": {
-      "name": "Plenário",
-      "URL": ""
-    },
-    "especie": "Sucessivo",
-    "data": "02.04.2024",
-    "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
-    }
-  },
-  {
-    "acordao": "260/24",
-    "processo": "636/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "22.03.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "258/24",
-    "processo": "588/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "22.03.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "256/24",
-    "processo": "295/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "22.03.2024",
-    "relator": {
-      "name": "Maria Benedita Urbano",
-      "URL": "http://vlex.com/tc/2000/relatores/maria-benedita-urbano"
-    }
-  },
-  {
-    "acordao": "284/24",
-    "processo": "950/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "282/24",
-    "processo": "875/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "280/24",
-    "processo": "795/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "278/24",
-    "processo": "478/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "276/24",
-    "processo": "193/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "274/24",
-    "processo": "63/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "272/24",
-    "processo": "145/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "10.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "270/24",
-    "processo": "380/24",
-    "formacao": "",
-    "especie": "Eleitoral",
-    "data": "04.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "268/24",
-    "processo": "264/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "03.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "266/24",
-    "processo": "151/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "03.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "264/24",
-    "processo": "935/23",
-    "formacao": "",
-    "especie": "Partido Político",
-    "data": "02.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "262/24",
-    "processo": "1232/23",
-    "formacao": "",
-    "especie": "Sucessivo",
-    "data": "02.04.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "260/24",
-    "processo": "636/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "22.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "258/24",
-    "processo": "588/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "22.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "256/24",
-    "processo": "295/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "22.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "254/24",
-    "processo": "531/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "Carlos Carvalho",
-      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
-    }
-  },
-  {
-    "acordao": "252/24",
-    "processo": "4/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "20.03.2024",
-    "relator": {
-      "name": "Carlos Carvalho",
-      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
-    }
-  },
-  {
-    "acordao": "250/24",
-    "processo": "1314/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "Afonso Patrão",
-      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
-    }
-  },
-  {
-    "acordao": "248/24",
-    "processo": "1076/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "Carlos Carvalho",
-      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
-    }
-  },
-  {
-    "acordao": "246/24",
-    "processo": "679/23",
-    "formacao": "3ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "João Carlos Loureiro",
-      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
-    }
-  },
-  {
-    "acordao": "244/24",
-    "processo": "1107/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "20.03.2024",
-    "relator": {
-      "name": "Joana Fernandes Costa",
-      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
-    }
-  },
-  {
-    "acordao": "242/24",
-    "processo": "251/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "20.03.2024",
-    "relator": {
-      "name": "Joana Fernandes Costa",
-      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
-    }
-  },
-  {
-    "acordao": "240/24",
-    "processo": "90/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "João Carlos Loureiro",
-      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
-    }
-  },
-  {
-    "acordao": "238/24",
-    "processo": "158/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "15.03.2024",
-    "relator": {
-      "name": "João Carlos Loureiro",
-      "URL": "http://vlex.com/tc/2000/relatores/jo%C3%A3o-carlos-loureiro"
-    }
-  },
-  {
-    "acordao": "236/24",
-    "processo": "1080/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
-    }
-  },
-  {
-    "acordao": "234/24",
-    "processo": "20/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "14.03.2024",
-    "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
-    }
-  },
-  {
-    "acordao": "232/24",
-    "processo": "84/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "Mariana Canotilho",
-      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
-    }
-  },
-  {
-    "acordao": "230/24",
-    "processo": "971/23",
-    "formacao": "2ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "José Eduardo Figueiredo Dias",
-      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
-    }
-  },
-  {
-    "acordao": "228/24",
-    "processo": "346/23",
-    "formacao": "2ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "Mariana Canotilho",
-      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
-    }
-  },
-  {
-    "acordao": "226/24",
-    "processo": "881/22",
-    "formacao": "2ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "António José da Ascensão Ramos",
-      "URL": "http://vlex.com/tc/2000/relatores/ant%C3%B3nio-jos%C3%A9-da-ascens%C3%A3o-ramos"
-    }
-  },
-  {
-    "acordao": "254/24",
-    "processo": "531/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "252/24",
-    "processo": "4/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "20.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "250/24",
-    "processo": "1314/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "248/24",
-    "processo": "1076/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "246/24",
-    "processo": "679/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "244/24",
-    "processo": "1107/23",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "20.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "242/24",
-    "processo": "251/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "20.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "240/24",
-    "processo": "90/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "20.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "238/24",
-    "processo": "158/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "15.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "236/24",
-    "processo": "1080/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "234/24",
-    "processo": "20/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "14.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "232/24",
-    "processo": "84/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "230/24",
-    "processo": "971/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "228/24",
-    "processo": "346/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "226/24",
-    "processo": "881/22",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "224/24",
-    "processo": "733/22",
-    "formacao": "2ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "Mariana Canotilho",
-      "URL": "http://vlex.com/tc/2000/relatores/mariana-canotilho"
-    }
-  },
-  {
-    "acordao": "222/24",
-    "processo": "294/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "José Eduardo Figueiredo Dias",
-      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
-    }
-  },
-  {
-    "acordao": "220/24",
-    "processo": "646/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "José Eduardo Figueiredo Dias",
-      "URL": "http://vlex.com/tc/2000/relatores/jos%C3%A9-eduardo-figueiredo-dias"
-    }
-  },
-  {
-    "acordao": "218/24",
-    "processo": "139/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
     "data": "13.03.2024",
     "relator": {
-      "name": "Carlos Carvalho",
-      "URL": "http://vlex.com/tc/2000/relatores/carlos-carvalho"
+      "name": "",
+      "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "216/24",
-    "processo": "236/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
+    "acordao": "201/24",
+    "processo": "205/24",
+    "formacao": "",
     "especie": "Reclamação",
-    "data": "13.03.2024",
-    "relator": {
-      "name": "Afonso Patrão",
-      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
-    }
-  },
-  {
-    "acordao": "214/24",
-    "processo": "114/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "Afonso Patrão",
-      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
-    }
-  },
-  {
-    "acordao": "212/24",
-    "processo": "1054/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "Afonso Patrão",
-      "URL": "http://vlex.com/tc/2000/relatores/afonso-patr%C3%A3o"
-    }
-  },
-  {
-    "acordao": "210/24",
-    "processo": "1167/23",
-    "formacao": "3ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "Joana Fernandes Costa",
-      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
-    }
-  },
-  {
-    "acordao": "208/24",
-    "processo": "349/23",
-    "formacao": "3ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "Joana Fernandes Costa",
-      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
-    }
-  },
-  {
-    "acordao": "206/24",
-    "processo": "169/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": "Reclamação",
-    "data": "13.03.2024",
-    "relator": {
-      "name": "Joana Fernandes Costa",
-      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
-    }
-  },
-  {
-    "acordao": "204/24",
-    "processo": "19/24",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "Joana Fernandes Costa",
-      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
-    }
-  },
-  {
-    "acordao": "202/24",
-    "processo": "1181/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "Joana Fernandes Costa",
-      "URL": "http://vlex.com/tc/2000/relatores/joana-fernandes-costa"
-    }
-  },
-  {
-    "acordao": "200/24",
-    "processo": "341/23",
-    "formacao": {
-      "name": "Conferência",
-      "URL": "http://vlex.com/tc/2000/formacao/conferencia"
-    },
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
     "data": "12.03.2024",
     "relator": {
-      "name": "Teles Pereira",
-      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
-    }
-  },
-  {
-    "acordao": "198/24",
-    "processo": "489/23",
-    "formacao": "1ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "12.03.2024",
-    "relator": {
-      "name": "Teles Pereira",
-      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
-    }
-  },
-  {
-    "acordao": "196/24",
-    "processo": "1114/22",
-    "formacao": "1ª Secção",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "12.03.2024",
-    "relator": {
-      "name": "Teles Pereira",
-      "URL": "http://vlex.com/tc/2000/relatores/teles-pereira"
-    }
-  },
-  {
-    "acordao": "224/24",
-    "processo": "733/22",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
       "name": "",
       "URL": "http://vlex.com/tc/2000/relatores/"
     }
   },
   {
-    "acordao": "222/24",
-    "processo": "294/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "220/24",
-    "processo": "646/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "14.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "218/24",
-    "processo": "139/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "13.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "216/24",
-    "processo": "236/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "13.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "214/24",
-    "processo": "114/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "212/24",
-    "processo": "1054/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "210/24",
-    "processo": "1167/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "208/24",
-    "processo": "349/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "206/24",
-    "processo": "169/24",
-    "formacao": "",
-    "especie": "Reclamação",
-    "data": "13.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "204/24",
-    "processo": "19/24",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "202/24",
-    "processo": "1181/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "13.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "200/24",
-    "processo": "341/23",
+    "acordao": "199/24",
+    "processo": "1045/23",
     "formacao": "",
     "especie": {
       "name": "Recurso",
@@ -2531,22 +2536,8 @@
     }
   },
   {
-    "acordao": "198/24",
-    "processo": "489/23",
-    "formacao": "",
-    "especie": {
-      "name": "Recurso",
-      "URL": "http://vlex.com/tc/2000/especie/recurso"
-    },
-    "data": "12.03.2024",
-    "relator": {
-      "name": "",
-      "URL": "http://vlex.com/tc/2000/relatores/"
-    }
-  },
-  {
-    "acordao": "196/24",
-    "processo": "1114/22",
+    "acordao": "197/24",
+    "processo": "303/23",
     "formacao": "",
     "especie": {
       "name": "Recurso",
